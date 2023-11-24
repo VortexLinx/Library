@@ -1,6 +1,3 @@
-<img src="Assets/logodark.png#gh-dark-mode-only" alt="fluent">
-<img src="Assets/logolight.png#gh-light-mode-only" alt="fluent">
-
 ## ⚡ Features
 
 - Modern design
